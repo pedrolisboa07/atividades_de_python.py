@@ -1,0 +1,4 @@
+print("--- Inversor de Nome ---")
+nome = input("Digite um nome: ")
+nome_invertido = nome[::-1]
+print(f"O nome invertido é: {nome_invertido}")
